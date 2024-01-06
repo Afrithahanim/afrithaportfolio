@@ -1,0 +1,2 @@
+# afrithaportfolio
+hi, git hub
